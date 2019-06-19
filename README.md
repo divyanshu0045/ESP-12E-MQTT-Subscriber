@@ -9,6 +9,7 @@ ESP-12E MQTT Subscriber for ESP8266(NodeMCU v3)
 /************************* WiFi Access Point *********************************/
 
 #define WLAN_SSID       "SSID"
+
 #define WLAN_PASS       "PASS"
 
 3. Burn mqtt_esp12e.ino on chip.
